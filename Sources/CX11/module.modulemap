@@ -1,5 +1,5 @@
 module CX11 [system] {
-    header "macros.h"
+    header "../../Headers/macros.h"
     module Xlib {
         header "/usr/include/X11/Xlib.h"
     }
